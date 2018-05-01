@@ -1,0 +1,9 @@
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\bin\Debug\Niemiecki.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\bin\Debug\Niemiecki.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\bin\Debug\Niemiecki.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\obj\Debug\Niemiecki.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\obj\Debug\Niemiecki.Form1.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\obj\Debug\Niemiecki.Properties.Resources.resources
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\obj\Debug\Niemiecki.csproj.GenerateResource.Cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\obj\Debug\Niemiecki.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Niemiecki\Niemiecki\obj\Debug\Niemiecki.pdb
